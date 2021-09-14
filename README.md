@@ -1,7 +1,7 @@
 #### Hi there! Ola 👋
 ## I'm Michael Haraeb
-### Python programmer | Flask
-### Beginner Robotic Process Automation (RPA) Engineer
+### Python programmer | Flask | Selenium
+### Docker Beginner
 
 
 - 🔭 I’m currently working as a Freelencer on Upwork
