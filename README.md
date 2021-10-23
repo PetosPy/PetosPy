@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working as a Freelencer on Upwork
-- 🌱 learning Robotic Process Automation with Uipath. 🤖 
+- 🌱 learning Django and Docker. 🤖 
 -  😄 Pronouns: he/him
 
 <div>
