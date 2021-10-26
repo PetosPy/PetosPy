@@ -1,8 +1,8 @@
 # Hi there, Ola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm Michael Haraeb
-### Python programmer | Flask | Selenium
-### Docker Beginner
+### A Python Programmer/ Developer
+### I am from Namibia, but i'm almost a permanent Brazilian resident. Carioca!
 
 
 - 🔭 I’m currently working as a Freelencer on Upwork
