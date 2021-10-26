@@ -4,10 +4,6 @@
 ### A Python Programmer/ Developer
 ### I am from Namibia, but i'm almost a permanent Brazilian resident. Carioca!
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Y01wot3Bt9Bpdz8xvs" width="100%" height="100%" style="position: absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
-<p><a href="https://giphy.com/stickers/Y01wot3Bt9Bpdz8xvs"></a></p>
-
 
 - 🔭 I’m currently working as a Freelencer on Upwork
 - 🌱 learning Django and Docker. 🤖 
