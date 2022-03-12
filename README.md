@@ -1,12 +1,12 @@
 # Hi there, Ola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm Michael Haraeb
-### A Python Programmer/ Developer
-### I am from Namibia, but i'm almost a permanent Brazilian resident. Carioca!
+### Python Developer 
+### Hello from Rio de Janeiro
 
 
-- 🔭 I’m currently working as a Freelencer on Upwork
-- 🌱 learning Django and Docker. 🤖 
+- 🔭 I’m currently working as a Python Dev at Aquarela
+- 🌱 WOrking with Apache airflow to keep data flowing for the data scientist! I am also working with Docker containers. 🤖 
 -  😄 Pronouns: he/him
 
 <br>
