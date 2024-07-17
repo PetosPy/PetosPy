@@ -5,8 +5,9 @@
 ### Hello from Rio de Janeiro
 
 
-- 🔭 I’m currently working as a Python Dev at Aquarela
-- 🌱 WOrking with Apache airflow to keep data flowing for the data scientist! I am also working with Docker containers. 🤖 
+- 🔭 I’m a Python Developer since 2019
+- 🌱 Working with Apache airflow to keep data flowing for the data scientist! I am also working with Docker containers. 
+- 🤖 Junior RPA Developer with UIPATH.
 -  😄 Pronouns: he/him
 
 <br>
